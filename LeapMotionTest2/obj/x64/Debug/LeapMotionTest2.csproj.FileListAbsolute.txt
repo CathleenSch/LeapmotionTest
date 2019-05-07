@@ -1,0 +1,4 @@
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\x64\Debug\LeapMotionTest2.FrameDataForm.resources
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\x64\Debug\LeapMotionTest2.Properties.Resources.resources
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\x64\Debug\LeapMotionTest2.csproj.GenerateResource.cache
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\x64\Debug\LeapMotionTest2.csproj.CoreCompileInputs.cache

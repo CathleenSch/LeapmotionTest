@@ -1,0 +1,12 @@
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.csprojAssemblyReference.cache
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.FrameDataForm.resources
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.Properties.Resources.resources
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.csproj.GenerateResource.cache
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.csproj.CoreCompileInputs.cache
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\bin\Debug\LeapMotionTest2.exe.config
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\bin\Debug\LeapMotionTest2.exe
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\bin\Debug\LeapMotionTest2.pdb
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\bin\Debug\LeapCSharp.NET4.5.dll
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.csproj.CopyComplete
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.exe
+C:\Users\casch\source\repos\LeapMotionTest2\LeapMotionTest2\obj\Debug\LeapMotionTest2.pdb
